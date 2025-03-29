@@ -9,6 +9,7 @@ Role VARCHAR(50),
 Phone VARCHAR(15),
 Email VARCHAR(100)
 );
+
 INSERT INTO Staff (FirstName, LastName, Role, Phone, Email) VALUES
 ('Alice', 'Williams', 'Nurse', '444-555-6666', 'alice.williams@example.com'),
 ('Bob', 'Miller', 'Administrative', '555-666-7777', 'bob.miller@example.com'),
